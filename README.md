@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tzhang34
+- 👋 Hi, I’m Tianfei Zhang 
 - 👀 I’m interested in physics
 - 🌱 I’m currently learning condensed matter physics
 - 💞️ I’m looking to collaborate on calculating the electronic structure of two-dimensional material 
